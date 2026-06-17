@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="s1zzpbUrQIy0zhXNnDpo">
-    <mxGraphModel dx="2150" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1335,7 +1335,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DU7YdmrtZ3t0cIj5Ymsy-303" parent="DU7YdmrtZ3t0cIj5Ymsy-301" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeWidth=2.4;" value="Item_Version" vertex="1">
+        <mxCell id="DU7YdmrtZ3t0cIj5Ymsy-303" parent="DU7YdmrtZ3t0cIj5Ymsy-301" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeWidth=2.4;" value="AddOn_Reference" vertex="1">
           <mxGeometry height="30" width="170" x="30" as="geometry">
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
